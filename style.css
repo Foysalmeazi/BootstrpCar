@@ -1,0 +1,44 @@
+.navbar
+{
+    background-color:rgb(84, 43, 107);
+}
+.std
+{
+    color: #fff;
+}
+.first
+{
+    color: darkgray;
+    text-align: center;
+}
+.card
+{
+    height: 483px;
+    
+}
+.bugatti
+{
+    margin-top: 25px;
+    
+}
+.rools
+{
+    margin-top: 25px;
+}
+#footer
+{
+   background-color: darkslategrey;
+   color: white;
+}
+.col-lg-3 .link ul a
+{
+    color: white;
+}
+#search
+{
+    margin-bottom: 15px;
+}
+.fa
+{
+    color: white;
+}
